@@ -1,0 +1,6 @@
+/mnt/01D5CA200052FAA0/CSE Funda/C++/basic-c-plus-plus/cmake-build-debug/CMakeFiles/C__.dir
+/mnt/01D5CA200052FAA0/CSE Funda/C++/basic-c-plus-plus/cmake-build-debug/CMakeFiles/conditions.dir
+/mnt/01D5CA200052FAA0/CSE Funda/C++/basic-c-plus-plus/cmake-build-debug/CMakeFiles/switch.dir
+/mnt/01D5CA200052FAA0/CSE Funda/C++/basic-c-plus-plus/cmake-build-debug/CMakeFiles/loop.dir
+/mnt/01D5CA200052FAA0/CSE Funda/C++/basic-c-plus-plus/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/01D5CA200052FAA0/CSE Funda/C++/basic-c-plus-plus/cmake-build-debug/CMakeFiles/rebuild_cache.dir
